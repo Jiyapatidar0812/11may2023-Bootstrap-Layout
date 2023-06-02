@@ -1,0 +1,52 @@
+.jiya_row{
+    height: 200px;
+    border: 1px dashed red;
+}
+ .jiya_row > div{
+     height: 200px;
+     border: 1px dashed purple;
+ }
+ .jiya2_row{
+     height: 100px;
+     border:1px solid royalblue;
+ }
+ .jiya2_row > div:first-child{
+     height: 100px;
+     border:1px dotted slateblue;
+ }
+ .jiya2_row > div:nth-child(2){
+     height: 100px;
+     border: 1px dashed blueviolet;
+ }
+.jiya2_row > div:nth-child(3){
+    height: 100px;
+    border:1px dashed crimson;
+}
+.jiya2_row > div:nth-child(4){
+    height: 100px;
+    border:1px dashed darkgreen;
+}
+.jiya2_row > div:nth-child(5){
+    height: 100px;
+    border:1px dashed tomato;
+}
+.jiya2_row > div:last-child{
+    height: 100px;
+    border: 1px dashed springgreen;
+}
+.jiya3_row {
+    height: 100px;
+    border:1px dashed turquoise;
+}
+.jiya3_row > div:first-child{
+    height: 100px;
+    background-color: tomato;
+}
+.jiya3_row > div:nth-child(2){
+    height: 100px;
+    background-color: violet;
+}
+.jiya3_row > div:nth-child(3){
+    height: 100px;
+    background-color: skyblue;
+}
